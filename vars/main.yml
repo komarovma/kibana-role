@@ -1,2 +1,2 @@
 ---
-# vars file for /home/mike/kibana-role
+supported_systems: ['CentOS', 'Red Hat Enterprise Linux', 'Ubuntu', 'Debian']
